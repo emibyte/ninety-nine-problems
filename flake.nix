@@ -16,6 +16,7 @@
           packages = with pkgs; [
             ocamlPackages.ocaml
             ocamlPackages.dune_3
+            ocamlPackages.ppx_inline_test
 
             ocamlPackages.findlib
             ocamlPackages.utop

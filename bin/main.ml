@@ -1,3 +1,1 @@
-let () = print_endline "Hello, World!"
-
-let add a b = a +. b
+let () = print_endline "Hellooouu"
