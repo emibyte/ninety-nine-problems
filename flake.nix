@@ -17,6 +17,7 @@
             ocamlPackages.ocaml
             ocamlPackages.dune_3
             ocamlPackages.ppx_inline_test
+            ocamlPackages.ocp-indent
 
             ocamlPackages.findlib
             ocamlPackages.utop
